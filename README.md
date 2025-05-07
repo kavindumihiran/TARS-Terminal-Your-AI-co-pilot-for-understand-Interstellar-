@@ -91,7 +91,7 @@ Want to adapt the RAG system to your own domain?
 
 # 📞 Contact
 
-Created by [Your Name] - Feel free to reach out via GitHub or email!
+Created by [Kavindu Mihiran] - Feel free to reach out via GitHub or email!
 
 
 
