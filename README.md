@@ -60,7 +60,7 @@ streamlit run interstellar.py
 
 # 🧠 System Architecture
 
-![System Architecture](architecture.png)
+![System Architecture](architecture.jpg)
 
 
 
