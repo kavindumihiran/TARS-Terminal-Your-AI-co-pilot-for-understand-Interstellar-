@@ -58,6 +58,10 @@ pip install streamlit
 streamlit run interstellar.py
 ```
 
+# 🧠 System Architecture
+
+![System Architecture](architecture.png)
+
 
 
 
